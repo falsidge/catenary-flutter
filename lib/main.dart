@@ -13,11 +13,10 @@ class CatenaryApp extends StatelessWidget {
     return MaterialApp(
       title: 'Catenary',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.orange, brightness: Brightness.dark),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue, brightness: Brightness.dark),
         useMaterial3: true,
       ),
       home: const CatenaryNavView(),
     );
   }
 }
-

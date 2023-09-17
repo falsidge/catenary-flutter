@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.flutter_rust_example">
    <application
-        android:label="flutter_rust_example"
+        android:label="Catenary"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

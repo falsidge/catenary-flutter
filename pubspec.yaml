@@ -33,3 +33,4 @@ flutter_launcher_icons:
     image_path: "icon.png"
     background_color: "#hexcode"
     theme_color: "#hexcode"
+  location: ^5.0.0
