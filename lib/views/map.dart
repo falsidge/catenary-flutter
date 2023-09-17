@@ -14,6 +14,6 @@ class CatenaryMapView extends StatelessWidget {
           bearing: 0.0,
           tilt: 0.0
       ),
-    )
+    );
   }
 }
