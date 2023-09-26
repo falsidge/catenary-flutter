@@ -1,2 +1,2 @@
 # catenary-flutter
-Kyler Transit Map but in Flutter and Rust for mobile. Currently set for web dev.
+Cross-platform build of Catenary Maps for iOS, Android, and Web.
