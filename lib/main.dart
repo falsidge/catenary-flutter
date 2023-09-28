@@ -1,6 +1,7 @@
 import 'package:catenary/views/nav.dart';
 import 'package:catenary/views/map.dart';
 import 'package:flutter/material.dart';
+import 'package:location/location.dart';
 
 void main() {
   runApp(const CatenaryApp());

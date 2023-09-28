@@ -11,7 +11,7 @@ class CatenaryMapView extends StatefulWidget {
 
 class _CatenaryMapViewState extends State<CatenaryMapView> {
   late MaplibreMapController mapController;
-  Location location = Location();
+  Location location = new Location();
 
   late bool _serviceEnabled;
   late PermissionStatus _permissionGranted;
